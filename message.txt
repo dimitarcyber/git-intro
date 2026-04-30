@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Change from feature branch
-=======
-Change from main
->>>>>>> 1c292ba (Chage message in main)
+Change from main branch
